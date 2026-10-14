@@ -4,7 +4,6 @@ Kho lưu trữ này chứa toàn bộ các bài tập Lab của môn học Lập
 
 ## Thông tin sinh viên
 - **Họ và tên:** Nguyễn Viết Tường
-- **Mã sinh viên:** 25023043
 - **Chuyên ngành:** Trí tuệ nhân tạo - K70
 - **Trường:** Đại học Công nghệ (UET)
 
